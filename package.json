@@ -40,7 +40,8 @@
     "@stdlib/ndarray-base-assign": "^0.1.1",
     "@stdlib/ndarray-base-empty-like": "^0.3.0",
     "@stdlib/ndarray-base-reverse": "^0.2.2",
-    "@stdlib/types": "^0.4.1"
+    "@stdlib/types": "^0.4.1",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-base-zero-to": "^0.2.1",
