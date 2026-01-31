@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-to-reversed",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Return a new ndarray where the order of elements of an input ndarray is reversed along each dimension.",
   "license": "Apache-2.0",
   "author": {
@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@stdlib/array-base-zero-to": "^0.2.1",
-    "@stdlib/array-typed": "^0.3.0",
+    "@stdlib/array-typed": "^0.3.1",
     "@stdlib/assert-is-ndarray-like": "^0.2.2",
     "@stdlib/ndarray-array": "^0.2.1",
     "@stdlib/ndarray-base-assert-is-read-only": "^0.2.2",
